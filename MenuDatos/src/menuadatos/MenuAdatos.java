@@ -17,6 +17,7 @@ public class  MenuAdatos {
         Arboles ar = new Arboles();
         
         //Declaracion Variables
+        int i;
         int opc=0;
         int a=1;
         int b=1;
